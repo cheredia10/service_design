@@ -1,7 +1,8 @@
-SERVICE DESIGN
-Apoyo: Amable, Centro de Innovación de la Municipalidad de Miraflores y el Gobierno del Perú.
-Integrantes: 5 personas
-Tiempo de entrega: 2 semanas
+# SERVICE DESIGN
+
+**Apoyo:** Amable, Centro de Innovación de la Municipalidad de Miraflores y el Gobierno del Perú.
+**Integrantes:** 5 personas
+**Tiempo de entrega:** 2 semanas
 
 Desafío:
 ¿Cuál es la mayor problemática causada por la construcción de proyectos inmobiliarios  (licencias y edificaciones privadas) que enfrentan los colaboradores de la Municipalidad de Miraflores y los ciudadanos? 
