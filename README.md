@@ -58,10 +58,8 @@ Otra de las herramientas que utilizamos para conocer a profundidad a nuestros us
 
 Continuando con la investigación, decidimos realizar una observación contextual de como es un día caminando por las calles de Miraflores, de este recorrido pudimos rescatar lo siguiente:
 
--  CARO LLENAR
--
--
--
+- Los volquetes obstaculizan el tránsito durante todo el día, nunca respetan los horarios.
+- Las construcciones no colocan la señalización para transito de los peatones.
 
  
 ## **SINTESIS**
